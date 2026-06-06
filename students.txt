@@ -1,0 +1,5 @@
+Student Records
+-----------------
+Name: Arun, Age: 20, Department: CSE
+Name: Priya, Age: 19, Department: IT
+Name: Kavin, Age: 21, Department: ECE

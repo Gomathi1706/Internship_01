@@ -1,0 +1,6 @@
+Student Information
+-------------------
+Name: Gomathi
+Age: 19
+Department: AI & DS
+College: Kgisl Institute of Technology
